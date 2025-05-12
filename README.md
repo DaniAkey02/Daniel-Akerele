@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Akerele</h1>
 <h3 align="center">A passionate data analyst</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniakey02&label=Profile%20views&color=0e75b6&style=flat" alt="daniakey02" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniakey02" alt="daniakey02" /></a> </p>
 
 Daniel Akerele is a data Analyst with an ability to enhance data quality, accessibility, and utilization. Successfully implemented data cleaning procedures and conducted detailed analyses to implement strategic and data driven decision making processes as part of my work experience. Eager to leverage my analytical skills and passion for data to push business growth in a dynamic, data-driven organization.
