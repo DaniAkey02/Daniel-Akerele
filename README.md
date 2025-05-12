@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniakey02" alt="daniakey02" /></a> </p>
 
+Daniel Akerele is a data Analyst with an ability to enhance data quality, accessibility, and utilization. Successfully implemented data cleaning procedures and conducted detailed analyses to implement strategic and data driven decision making processes as part of my work experience. Eager to leverage my analytical skills and passion for data to push business growth in a dynamic, data-driven organization.
+
 - 🔭 I’m currently working on **an analysis of a social media page's content performance**
 
 - 🌱 I’m currently learning **Machine Learning, R**
