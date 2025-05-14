@@ -16,7 +16,7 @@ Daniel Akerele is a data Analyst with an ability to enhance data quality, access
 
 - 📫 How to reach me **akereledaniel19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j7UY8BTUUNqnYEvklGm6BUK7mclp7chd/view?usp=drive_link](https://drive.google.com/file/d/1j7UY8BTUUNqnYEvklGm6BUK7mclp7chd/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j7UY8BTUUNqnYEvklGm6BUK7mclp7chd/view?usp=drive_link]((https://drive.google.com/file/d/1j7UY8BTUUNqnYEvklGm6BUK7mclp7chd/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
